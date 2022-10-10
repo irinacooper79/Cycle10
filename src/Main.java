@@ -69,7 +69,6 @@ public class Main {
             System.out.println("Месяц " + i4 + " сумма накоплений равна " + total + " рублей");
         }
         // Задача №4
-
         int firstFriday = 5;
         int daysInMonth = 31;
         for (int i = firstFriday; i <= daysInMonth; i = i + 7) {
